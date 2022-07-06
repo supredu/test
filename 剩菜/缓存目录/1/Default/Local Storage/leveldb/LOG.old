@@ -1,0 +1,21 @@
+2022/06/17-16:46:31.476 ac0 Reusing MANIFEST E:\项目\剩菜\缓存目录\1\Default\Local Storage\leveldb/MANIFEST-000001
+2022/06/17-16:46:31.477 ac0 Recovering log #13
+2022/06/17-16:46:31.479 ac0 Reusing old log E:\项目\剩菜\缓存目录\1\Default\Local Storage\leveldb/000013.log 
+2022/06/17-16:57:20.183 d6c Level-0 table #17: started
+2022/06/17-16:57:20.188 d6c Level-0 table #17: 65694 bytes OK
+2022/06/17-16:57:20.190 d6c Delete type=0 #13
+2022/06/17-17:02:53.607 11f8 Level-0 table #19: started
+2022/06/17-17:02:53.611 11f8 Level-0 table #19: 56849 bytes OK
+2022/06/17-17:02:53.613 11f8 Delete type=0 #16
+2022/06/17-17:02:53.613 11f8 Compacting 4@0 + 1@1 files
+2022/06/17-17:02:53.619 11f8 Generated table #20@0: 185 keys, 267297 bytes
+2022/06/17-17:02:53.619 11f8 Compacted 4@0 + 1@1 files => 267297 bytes
+2022/06/17-17:02:53.620 11f8 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/06/17-17:02:53.621 11f8 Delete type=2 #8
+2022/06/17-17:02:53.621 11f8 Delete type=2 #11
+2022/06/17-17:02:53.621 11f8 Delete type=2 #14
+2022/06/17-17:02:53.621 11f8 Delete type=2 #17
+2022/06/17-17:02:53.621 11f8 Delete type=2 #19
+2022/06/17-17:04:48.957 548 Level-0 table #22: started
+2022/06/17-17:04:48.959 548 Level-0 table #22: 52680 bytes OK
+2022/06/17-17:04:48.961 548 Delete type=0 #18

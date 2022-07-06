@@ -1,0 +1,17 @@
+2022/06/20-12:17:56.186 4c44 Creating DB E:\项目\剩菜\缓存目录\1\Default\IndexedDB\https_shengcaiyoushu01.feishu.cn_0.indexeddb.leveldb since it was missing.
+2022/06/20-12:17:56.189 4c44 Reusing MANIFEST E:\项目\剩菜\缓存目录\1\Default\IndexedDB\https_shengcaiyoushu01.feishu.cn_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/20-12:48:40.591 20c0 Level-0 table #5: started
+2022/06/20-12:48:40.597 20c0 Level-0 table #5: 612550 bytes OK
+2022/06/20-12:48:40.599 20c0 Delete type=0 #3
+2022/06/20-12:48:58.405 20c0 Level-0 table #7: started
+2022/06/20-12:48:58.407 20c0 Level-0 table #7: 22555 bytes OK
+2022/06/20-12:48:58.409 20c0 Delete type=0 #4
+2022/06/20-12:48:58.409 20c0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/06/20-12:48:58.409 20c0 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x03\x01$\x004\x00e\x001\x00b\x00f\x004\x000\x00c\x00-\x008\x001\x006\x005\x00-\x004\x00a\x00c\x006\x00-\x008\x005\x001\x009\x00-\x003\x00a\x00c\x003\x002\x005\x009\x00e\x00b\x008\x003\x00f' @ 2263 : 1
+2022/06/20-12:48:58.409 20c0 Compacting 1@1 + 1@2 files
+2022/06/20-12:48:58.412 20c0 Generated table #8@1: 87 keys, 1799 bytes
+2022/06/20-12:48:58.412 20c0 Compacted 1@1 + 1@2 files => 1799 bytes
+2022/06/20-12:48:58.413 20c0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/06/20-12:48:58.413 20c0 Delete type=2 #5
+2022/06/20-12:48:58.413 20c0 Delete type=2 #7
+2022/06/20-12:48:58.414 20c0 Manual compaction at level-1 from '\x00\x02\x01\x03\x01$\x004\x00e\x001\x00b\x00f\x004\x000\x00c\x00-\x008\x001\x006\x005\x00-\x004\x00a\x00c\x006\x00-\x008\x005\x001\x009\x00-\x003\x00a\x00c\x003\x002\x005\x009\x00e\x00b\x008\x003\x00f' @ 2263 : 1 .. (end); will stop at (end)

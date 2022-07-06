@@ -1,0 +1,6 @@
+2022/06/15-15:17:40.883 1d78 Creating DB E:\文档\WeChat Files\wxid_fuqf61ylp8h222\FileStorage\MsgAttach\390d1844c1b9e7796702cbf06daafaf6\File\2022-06\剩菜\缓存目录\1\Default\IndexedDB\https_docs.qq.com_0.indexeddb.leveldb since it was missing.
+2022/06/15-15:17:40.887 1d78 Reusing MANIFEST E:\文档\WeChat Files\wxid_fuqf61ylp8h222\FileStorage\MsgAttach\390d1844c1b9e7796702cbf06daafaf6\File\2022-06\剩菜\缓存目录\1\Default\IndexedDB\https_docs.qq.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/06/15-15:17:41.767 3bcc Level-0 table #5: started
+2022/06/15-15:17:41.769 3bcc Level-0 table #5: 2279 bytes OK
+2022/06/15-15:17:41.770 3bcc Delete type=0 #3
+2022/06/15-15:17:41.770 3bcc Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
